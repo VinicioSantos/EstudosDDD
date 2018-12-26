@@ -1,2 +1,2 @@
-# EstudosDDD
-Estudos DDD Backends Robustos
+# EstudosDDDMVC5
+Estudos da arquitetura DDD com a camada de apresentação em MVC5
