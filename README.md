@@ -1,2 +1,2 @@
-# EstudosDDDMVC5
-Estudos da arquitetura DDD com a camada de apresentação em MVC5
+# EstudosDDDWEBAPI
+Estudos da arquitetura DDD com a camada de aplicação com WEBAPI
